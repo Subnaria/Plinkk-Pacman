@@ -6,9 +6,9 @@ const profileData = {
     userName: "Csc.Pacman", // Nom affiché sur la page et dans le titre de l'onglet
     email: "csc.pacman@studio.klaynight.fr", // Addesse mail affichée sur la page // Adresse mail affichée sur la page
     links: [ // Liens affichés sur la page
-        { icon: "https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png", url: "https://discord.gg/NZc5PKwkAa", text: "Link 1", name: "Discord" },
-        { icon: "https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png", url: "https://discord.gg/h4E74mZvFY", text: "Link 2", name: "Discord" },
-        { icon: "https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png", url: "https://discord.gg/h4E74mZvFY", text: "Link 3", name: "Discord" },
+        { icon: "https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png", url: "https://discord.gg/NZc5PKwkAa", text: "Wartycoon Fr", name: "Discord" },
+        { icon: "https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png", url: "https://discord.gg/GfFy3E6GVf", text: "Le Baudo Crew", name: "Discord" },
+        { icon: "https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png", url: "https://discord.gg/h4E74mZvFY", text: "The ats", name: "Discord" },
     ],
     // Fond de la page si une liste est utilisée alors le fond sera via les couleurs que vous mettez dedans
     background: ["#FF5733", "#33FF57"], //"https://static.vecteezy.com/ti/vecteur-libre/p1/12697876-motif-geometriquele-continue-noir-et-blanc-motif-repetitif-monochrome-arriere-plan-abstrait-optique-tridimensionnel-avec-cubes-troues-vectoriel.jpg",
