@@ -23,14 +23,6 @@ const profileData = {
         { data: "Designer", color: "#36A2EB", fontColor: "#FFFFFF" },
         { data: "Engineer UI/UX", color: "#4BC0C0", fontColor: "#FFFFFF" },
     ],
-
-    socialIcon: [
-        {url: "https://github.com", icon: "Discord"},
-        {url: "https://github.com", icon: "GitHub"},
-        {url: "https://github.com", icon: "LinkedIn"},
-        {url: "https://github.com", icon: "Instagram"},
-        {url: "https://github.com", icon: "YouTube alt"},
-    ],
     
     neonEnable: 1, // 1 : Enable, 0 : Disable
     buttonThemeEnable: 1, // 1 : Enable, 0 : Disable
@@ -41,7 +33,7 @@ const profileData = {
 
     backgroundSize : 50, // En pourcentage
     
-    selectedThemeIndex: 2,                   // Thème sélectionné            (voir ci-dessous)
+    selectedThemeIndex: 6,                   // Thème sélectionné            (voir ci-dessous)
 
     selectedAnimationIndex : 0,              // Animation de l'article       (voir ci-dessous)
     selectedAnimationButtonIndex : 10,       // Animation des boutons        (voir ci-dessous)
