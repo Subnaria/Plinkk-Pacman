@@ -23,6 +23,9 @@ const profileData = {
         { data: "Designer", color: "#36A2EB", fontColor: "#FFFFFF" },
         { data: "Engineer UI/UX", color: "#4BC0C0", fontColor: "#FFFFFF" },
     ],
+
+        socialIcon: [
+    ],
     
     neonEnable: 1, // 1 : Enable, 0 : Disable
     buttonThemeEnable: 1, // 1 : Enable, 0 : Disable
